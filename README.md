@@ -10,7 +10,8 @@
 ## 🖼️ Game Preview
 
 ![Game Screenshot Placeholder](#)
-*(Add a screenshot or gameplay gif here)*
+![Screenshot Title](screenshots/gameplay.png)
+
 
 
 ## 📌 Features
