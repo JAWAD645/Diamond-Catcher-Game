@@ -7,9 +7,13 @@
 
 
 
-## 🖼️ Game Preview
+## 🖼️ Screenshots
 
-![Screenshot Title](Start.png)
+### Start Screen  
+![Start](Start.png)
+
+### End Screen  
+![End](End.png)
 
 
 ## 📌 Features
