@@ -9,9 +9,7 @@
 
 ## 🖼️ Game Preview
 
-![Game Screenshot Placeholder](#)
-![Screenshot Title](screenshots/gameplay.png)
-
+![Screenshot Title](Start.png)
 
 
 ## 📌 Features
@@ -106,22 +104,10 @@ python Diamond\ Catcher.py
 
 
 
-## 📸 Screenshots (Optional)
-
-Include gameplay screenshots here:
-
-```
-/screenshots
-├── start_screen.png
-├── gameplay.png
-├── game_over.png
-```
-
-
-
 ## 📦 Future Improvements (Ideas)
 
 * Add sound effects and background music.
+* Add score on the screen
 * Implement a main menu with difficulty settings.
 * Save high scores between sessions.
 * Add more complex shapes using different algorithms.
