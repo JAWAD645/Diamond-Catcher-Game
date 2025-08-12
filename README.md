@@ -15,6 +15,10 @@
 ### End Screen  
 ![End](End.png)
 
+### Play the demo
+<img src="https://github.com/JAWAD645/Diamond-Catcher-Game/blob/43af4b29e2259939061345999053797302241085/Overview%20of%20this%20game.gif" alt="Game Screenshot" width="400">
+
+
 
 ## 📌 Features
 
